@@ -1,7 +1,7 @@
 # Email-Classification-Using-NLP
 
 ## Project Overview
-This project aims to classify emails into "Job-related" and "Academic-related" categories based on the content of the email body. Unlike traditional email classification systems that rely on sender addresses to create rules, this project uses Natural Language Processing (NLP) techniques to analyze and categorize emails by their content, providing a more automated and scalable solution.
+This project aims to classify emails into "Job-related" and "Academic-related" categories based on the content of the email body. Unlike traditional email classification systems that rely on sender addresses to create rules, this project uses Natural Language Processing (NLP) techniques to analyze and categorize emails by their content(the email body), providing a more automated and scalable solution.
 
 ## Features
 * Content-based Classification: Classifies emails based on the email body, eliminating the need to specify rules based on sender addresses.
